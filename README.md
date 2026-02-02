@@ -1,0 +1,1 @@
+# Szybkie-600-Generator
